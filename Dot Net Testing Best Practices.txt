@@ -1,0 +1,1 @@
+No slides, code can be found at https://github.com/robrich/net-testing-xunit-moq
