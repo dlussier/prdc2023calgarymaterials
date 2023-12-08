@@ -1,0 +1,1 @@
+No slides, code available at https://github.com/robrich/minimal-apis-aspnet
